@@ -4,11 +4,12 @@
 
 ## Description
 In this project, **Bayesian Linear Regression** has been implemented to predict the performance of IPL (Indian Premiere League) cricket teams based on two factors: Power hitting ability and Consistency to score runs by the batsman (batter).
+
 **Eventually, proving the hypothesis that power hitters has a greater impact on team's performance than consistency of players.**
 
--- Bayesian Linear Regression creates a model that maps features such as strikerate (power hitting index) and batting average (consistency index) to the target (strength of the team).
--- Instead of specifying probabilities using Bayesian, predictions were made using machine learning.
--- Bayesian Linear Regression is ideal since with the use of logical priors, a distribution of all sampled weights can be drawn from the simulation instead of a single value, which can be used to form predictions.
+  * Bayesian Linear Regression creates a model that maps features such as strikerate (power hitting index) and batting average (consistency index) to the target (strength of the team).
+  * Instead of specifying probabilities using Bayesian, predictions were made using machine learning.
+  * Bayesian Linear Regression is ideal since with the use of logical priors, a distribution of all sampled weights can be drawn from the simulation instead of a single value, which can be used to form predictions.
 
 
 ## Team
