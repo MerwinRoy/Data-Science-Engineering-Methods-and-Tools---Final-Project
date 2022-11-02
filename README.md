@@ -1,4 +1,5 @@
-# INFO 6105 - Data Science Engineering Methods and Tools: Final-Project (IPL cricket teams performance analysis)
+# INFO 6105 : Data Science Engineering Methods and Tools
+# Final Project: IPL cricket teams performance analysis
 
 ![Cricket-amico](https://user-images.githubusercontent.com/46862684/198855800-3d690a9b-4c43-4a4d-980e-7c10a8272113.png)
 
